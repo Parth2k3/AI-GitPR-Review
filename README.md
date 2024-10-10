@@ -33,7 +33,7 @@
 <ol>
     <li><strong>Clone the Repository</strong>:
         <pre><code>git clone https://github.com/your-username/github-pr-review-system.git
-cd github-pr-review-system
+cd backend
         </code></pre>
     </li>
     <li><strong>Set up a Virtual Environment</strong>:
@@ -127,5 +127,3 @@ NGROK_URL=&lt;your_ngrok_url&gt;
     <li><strong>AI Model Errors</strong>: Ensure that the <code>transformers</code> library is properly installed and accessible.</li>
 </ul>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
