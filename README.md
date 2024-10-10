@@ -1,5 +1,6 @@
 <h1>Automatic GitHub PR Review System</h1>
-
+<h2>Note*</h2>
+<p>The model requires a paid subscription of Hugging Face API, we can implement the review system using any other free models available as well.</p>
 <h2>Overview</h2>
 <p>This project is a Flask-based web application that automatically reviews pull requests (PRs) using AI models. It allows users to authorize GitHub, create webhooks for repositories, and generate feedback for PRs using an AI model. The feedback is posted as a comment on the PR.</p>
 
